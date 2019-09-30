@@ -1,2 +1,2 @@
-# dominant-color
-to detect the most dominant color in a picture.
+# Dominant-color
+To detect the most dominant color in a picture.
